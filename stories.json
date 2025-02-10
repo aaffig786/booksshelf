@@ -4,7 +4,9 @@
       "storyNumber": 1,
       "title": "ایک سچائی کی جیت",
       "imageUrl": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg",
-      "content": "Full Story"
+      "chapter1Url": "https://raw.githubusercontent.com/aaffig786/booksshelf/refs/heads/main/chapter1.txt",
+      "chapter1Ur2": "https://raw.githubusercontent.com/aaffig786/booksshelf/refs/heads/main/chapter1.txt1",
+      "chapter1Ur3": "https://raw.githubusercontent.com/aaffig786/booksshelf/refs/heads/main/chapter1.txt2"
     }
   ]
 }
