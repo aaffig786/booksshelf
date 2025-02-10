@@ -1,21 +1,23 @@
-[
-  {
-    "storyName": "Family Star",
-    "imageUrl": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg"
-  },
-
-   {
-    "storyName": "Family Star",
-    "imageUrl": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg"
-  },
-  
-  {
-    "storyName": "Family Star",
-    "imageUrl": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg"
-  },
-  
-  {
-    "storyName": "Family Star",
-    "imageUrl": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg"
-  }
 ]
+{
+  "stories": [
+    {
+      "storyNumber": 1,
+      "title": "The First Adventure",
+      "imageUrl": "https://farm4.staticflickr.com/3852/14447103450_2d0ff8802b_z_d.jpg",
+      "content": "This is the text of story number 1..."
+    },
+    {
+      "storyNumber": 2,
+      "title": "The Second Journey",
+      "imageUrl": "https://example.com/story2.jpg",
+      "content": "This is the text of story number 2..."
+    },
+    {
+      "storyNumber": 3,
+      "title": "The Third Tale",
+      "imageUrl": "https://example.com/story3.jpg",
+      "content": "This is the text of story number 3..."
+    }
+  ]
+}
