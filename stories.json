@@ -1,14 +1,16 @@
 [
   {
     "storyNumber": 1,
-    "title": "The Brave Warrior",
+    "title": "پیرِ کامل",
     "chapters": [
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/story1_chapter1.txt",
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/story1_chapter2.txt"
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/refs/heads/main/peerekamil/chapter1part1.txt",
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/refs/heads/main/peerekamil/chapter1part2.txt",
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/refs/heads/main/peerekamil/chapter1part3.txt"
     ],
     "chaptersHeadings": [
-      "Chapter 1: The Beginning",
-      "Chapter 2: The Journey"
+      "Chapter 1: Part 1",
+      "Chapter 2: Part 2",
+      "Chapter 2: Part 3"
     ]
   },
   {
