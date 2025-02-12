@@ -1,0 +1,23 @@
+[
+  {
+    "storyNumber": 1,
+    "title": "پیرِ کامل",
+    "imageUrl": "https://example.com/story1.jpg",
+    "chapterTitles": ["Chapter 1 Part 1", "Chapter 1 Part 2", "Chapter 1 Part 3"],
+    "chapterUrls": [
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/chapter1part1.txt",
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/chapter1part2.txt",
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/chapter1part3.txt"
+    ]
+  },
+  {
+    "storyNumber": 2,
+    "title": "Story Two",
+    "imageUrl": "https://example.com/story2.jpg",
+    "chapterTitles": ["Chapter 1 Heading", "Chapter 2 Heading"],
+    "chapterUrls": [
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/chapter1.txt",
+      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/chapter2.txt"
+    ]
+  }
+]
