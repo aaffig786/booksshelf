@@ -3,12 +3,14 @@
     "storyNumber": 1,
     "title": "پیرِ کامل",
     "imageUrl": "https://example.com/story1.jpg",
-    "pdfFolderUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/"
+    "pdfFolderUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/",
+    "filesListUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/files.json"
   },
   {
     "storyNumber": 2,
     "title": "Story Two",
     "imageUrl": "https://example.com/story2.jpg",
-    "pdfFolderUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/storytwo/"
+    "pdfFolderUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/storytwo/",
+    "filesListUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/files.json"
   }
 ]
