@@ -1,12 +1,10 @@
 [
   {
-    "storyNumber": 1,
     "title": "Story 1",
     "imageUrl": "https://example.com/story1.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novels/peerekamil.pdf"
   },
   {
-    "storyNumber": 2,
     "title": "Story Two",
     "imageUrl": "https://example.com/story2.jpg",
     "pdfUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novels/peerekamil.pdf"
