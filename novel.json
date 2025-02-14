@@ -1,16 +1,24 @@
 [
   {
     "storyNumber": 1,
-    "title": "پیرِ کامل",
+    "title": "Story 1",
     "imageUrl": "https://example.com/story1.jpg",
-    "pdfFolderUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/",
-    "filesListUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/files.json"
+    "chaptersHeadings": ["Chapter 1 Part 1", "Chapter 1 Part 2", "Chapter 1 Part 3"],
+    "chapters": [
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(1).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(2).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(3).pdf"
+    ]
   },
   {
     "storyNumber": 2,
     "title": "Story Two",
     "imageUrl": "https://example.com/story2.jpg",
-    "pdfFolderUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/storytwo/",
-    "filesListUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/files.json"
+    "chaptersHeadings": ["Chapter 1 Heading", "Chapter 2 Heading"],
+    "chapters": [
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(1).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(2).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(3).pdf"
+    ]
   }
 ]
