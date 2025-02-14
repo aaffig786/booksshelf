@@ -3,12 +3,11 @@
     "storyNumber": 1,
     "title": "Story 1",
     "imageUrl": "https://example.com/story1.jpg",
-    "chaptersHeadings": ["English", "Chapter 1 Part 1", "Chapter 1 Part 2", "Chapter 1 Part 3"],
+    "chaptersHeadings": ["Chapter 1 Part 1", "Chapter 1 Part 2", "Chapter 1 Part 3"],
     "chapters": [
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/english.txt",
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/chapter1part1.txt",
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/chapter1part2.txt",
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/peerekamil/chapter1part3.txt"
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(1).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(2).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(3).pdf"
     ]
   },
   {
@@ -17,8 +16,9 @@
     "imageUrl": "https://example.com/story2.jpg",
     "chaptersHeadings": ["Chapter 1 Heading", "Chapter 2 Heading"],
     "chapters": [
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/chapter1.txt",
-      "https://raw.githubusercontent.com/aaffig786/booksshelf/main/chapter2.txt"
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(1).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(2).pdf",
+      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(3).pdf"
     ]
   }
 ]
