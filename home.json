@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "name": "Novels",
+      "jsonUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novel.json"
+    },
+    {
+      "name": "Stories",
+      "jsonUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/stories.json"
+    }
+  ]
+}
