@@ -1,24 +1,14 @@
 [
   {
-    "storyNumber": 1,
-    "title": "Story 1",
-    "imageUrl": "https://example.com/story1.jpg",
-    "chaptersHeadings": ["Chapter 1 Part 1", "Chapter 1 Part 2", "Chapter 1 Part 3"],
-    "chapters": [
-      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(1).pdf",
-      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(2).pdf",
-      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(3).pdf"
-    ]
+    "title": "PEER E KAMIL3",
+    "writer": "HUMERA3",
+    "imageUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novels/peerekamil.jpg",
+    "pdfUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novels/peerekamil.pdf"
   },
   {
-    "storyNumber": 2,
-    "title": "Story Two",
-    "imageUrl": "https://example.com/story2.jpg",
-    "chaptersHeadings": ["Chapter 1 Heading", "Chapter 2 Heading"],
-    "chapters": [
-      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(1).pdf",
-      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(2).pdf",
-      "https://github.com/aaffig786/booksshelf/blob/main/peerekamil/page%20(3).pdf"
-    ]
+    "title": "PEER E KAMIL4",
+    "writer": "HUMERA4",
+    "imageUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novels/peerekamil.jpg",
+    "pdfUrl": "https://raw.githubusercontent.com/aaffig786/booksshelf/main/novels/peerekamil.pdf"
   }
 ]
